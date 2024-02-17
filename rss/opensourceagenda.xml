@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>最近添加的项目 - 开源议程</title>
+    <link>https://www.opensourceagenda.com/feeds/projects</link>
+    <description>最近添加的开源项目源</description>
+    <lastBuildDate>Sat, 17 Feb 2024 09:11:53 GMT</lastBuildDate>
+    <item>
+      <title>Pn532.js</title>
+      <link>https://www.opensourceagenda.com/projects/pn532js</link>
+      <description><![CDATA[PN532.js 是基于 Web 蓝牙和 Web 串行的 PN532 JavaScript 库。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/pn532js</guid>
+      <pubDate>Sat, 17 Feb 2024 09:11:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Archimate Ci 图像</title>
+      <link>https://www.opensourceagenda.com/projects/archimate-ci-image</link>
+      <description><![CDATA[用于持续集成管道的 Archi 容器映像]]></description>
+      <guid>https://www.opensourceagenda.com/projects/archimate-ci-image</guid>
+      <pubDate>Sat, 17 Feb 2024 09:11:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>NFC工具GUI</title>
+      <link>https://www.opensourceagenda.com/projects/nfctoolsgui</link>
+      <description><![CDATA[与 PN532 交互的跨平台程序，支持 Windows、Linux 和 macOS。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/nfctoolsgui</guid>
+      <pubDate>Sat, 17 Feb 2024 09:11:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>NFC PN532 SPI</title>
+      <link>https://www.opensourceagenda.com/projects/nfc-pn532-spi</link>
+      <description><![CDATA[Adafruit CircuitPython 到 PN532 NFC/RFID 控制库 (SPI) Micropython 的部分移植&lt; /p&gt;]]></description>
+      <guid>https://www.opensourceagenda.com/projects/nfc-pn532-spi</guid>
+      <pubDate>Sat, 17 Feb 2024 09:11:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux控制台</title>
+      <link>https://www.opensourceagenda.com/projects/linuxconsole</link>
+      <description><![CDATA[http://sourceforge.net/projects/linuxconsole/]]></description>
+      <guid>https://www.opensourceagenda.com/projects/linuxconsole</guid>
+      <pubDate>Sat, 17 Feb 2024 09:11:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Archimate PlantUML</title>
+      <link>https://www.opensourceagenda.com/projects/archimate-plantuml</link>
+      <description><![CDATA[PlantUML 宏和 Archimate 图的其他包含内容]]></description>
+      <guid>https://www.opensourceagenda.com/projects/archimate-plantuml</guid>
+      <pubDate>Sat, 17 Feb 2024 09:11:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>PyLMI SDP</title>
+      <link>https://www.opensourceagenda.com/projects/pylmi-sdp</link>
+      <description><![CDATA[[未维护] 符号线性矩阵不等式 (LMI) 和半定规划 (SDP) 工具Python]]></description>
+      <guid>https://www.opensourceagenda.com/projects/pylmi-sdp</guid>
+      <pubDate>Sat, 17 Feb 2024 09:11:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>运动生活</title>
+      <link>https://www.opensourceagenda.com/projects/exercism-lfe</link>
+      <description><![CDATA[Lisp Flavored Erlang (LFE) 中的锻炼练习。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/exercism-lfe</guid>
+      <pubDate>Sat, 17 Feb 2024 09:11:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Django办公软件</title>
+      <link>https://www.opensourceagenda.com/projects/djangoffice</link>
+      <description><![CDATA[小型办公室的项目管理/CRM - 客户、职位、任务、费率、活动、时间表、联系人、发票等等等]]></description>
+      <guid>https://www.opensourceagenda.com/projects/djangoffice</guid>
+      <pubDate>Sat, 17 Feb 2024 09:11:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Certbot DNS Loopia</title>
+      <link>https://www.opensourceagenda.com/projects/certbot-dns-loopia</link>
+      <description><![CDATA[Certbot 的 Loopia DNS 身份验证插件]]></description>
+      <guid>https://www.opensourceagenda.com/projects/certbot-dns-loopia</guid>
+      <pubDate>Sat, 17 Feb 2024 09:11:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>锻炼PLSQL</title>
+      <link>https://www.opensourceagenda.com/projects/exercism-plsql</link>
+      <description><![CDATA[PL/SQL 中的练习。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/exercism-plsql</guid>
+      <pubDate>Sat, 17 Feb 2024 09:11:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>美味培根</title>
+      <link>https://www.opensourceagenda.com/projects/splendidbacon</link>
+      <description><![CDATA[黑客项目管理]]></description>
+      <guid>https://www.opensourceagenda.com/projects/splendidbacon</guid>
+      <pubDate>Sat, 17 Feb 2024 09:11:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>科隆维姆</title>
+      <link>https://www.opensourceagenda.com/projects/colonvim</link>
+      <description><![CDATA[neovim 的主题实用程序。目前这还处于实验阶段。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/colonvim</guid>
+      <pubDate>Sat, 17 Feb 2024 09:11:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>符号机器人</title>
+      <link>https://www.opensourceagenda.com/projects/sympybotics</link>
+      <description><![CDATA[[未维护]机器人动力学建模和识别的符号框架]]></description>
+      <guid>https://www.opensourceagenda.com/projects/sympybotics</guid>
+      <pubDate>Sat, 17 Feb 2024 09:11:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>莫兹特</title>
+      <link>https://www.opensourceagenda.com/projects/moztt</link>
+      <description><![CDATA[已弃用 - FirefoxOS 上使用的字体]]></description>
+      <guid>https://www.opensourceagenda.com/projects/moztt</guid>
+      <pubDate>Sat, 17 Feb 2024 09:11:46 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

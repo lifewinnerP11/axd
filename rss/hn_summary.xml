@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>HN总结</title>
+    <link>https://tg.i-c-a.su</link>
+    <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
+    <lastBuildDate>Sat, 17 Feb 2024 09:10:47 GMT</lastBuildDate>
+    <item>
+      <title>[媒体] 隆重推出 endpts.io，这是一个简单的工具，可让您生成用于测试的模拟 API [...]</title>
+      <link>https://t.me/hn_summary/74648</link>
+      <description><![CDATA[显示 HN：生成用于测试的模拟 API 的简单工具
+介绍 endpts.io，一个允许您生成模拟的简单工具用于测试目的的 API。通过多种起点可供选择，例如单个用户数据、用户列表、产品、文件、Git 提交，甚至航班信息，您可以轻松创建真实的模拟数据来测试您的应用程序。该工具非常适合希望简化测试流程并确保应用程序正常运行的开发人员。今天尝试 endpts.io 看看生成模拟有多么容易满足您测试需求的 API。]]></description>
+      <guid>https://t.me/hn_summary/74648</guid>
+      <pubDate>Sat, 17 Feb 2024 09:10:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>在我的 Raspberry Pi 可靠性系列中，我探讨了保持 Raspberry Pi 运行的挑战 [...]</title>
+      <link>https://t.me/hn_summary/74647</link>
+      <description><![CDATA[长期运行 Raspberry Pi 的注意事项
+在我的 Raspberry Pi 可靠性系列中，我探讨了保持 Raspberry Pi 长时间平稳运行的挑战。从调频发射机到能源监视器，这些小设备在我家里有多种用途。我讨论可能出现的潜在问题并分享我的解决方案以确保长期可靠性。强烈建议不要禁用 Raspberry Pi 文件系统的日志记录这一有争议的建议，因为它会增加文件系统损坏的风险。我的目标是让我的 Pi 更加可靠，因此我专注于实现该目标的策略。请继续关注 Pi 可靠性博客系列中的更新和其他提示。]]></description>
+      <guid>https://t.me/hn_summary/74647</guid>
+      <pubDate>Sat, 17 Feb 2024 09:06:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]马克扎克伯格最近解释了为什么科技公司继续裁员，德 [...]</title>
+      <link>https://t.me/hn_summary/74646</link>
+      <description><![CDATA[马克扎克伯格解释了为什么这么多科技公司正在裁员
+马克·扎克伯格最近解释了为什么科技公司在疫情期间仍在继续裁员。他提到，最初的裁员潮是由于大流行时期增长期间的过度招聘，但最近的裁员是因为公司正在意识到精简和提高效率的好处。扎克伯格还讨论了 Meta 与苹果的竞争，强调了他们在虚拟现实和增强现实领域的竞争。他提到，虽然苹果是一家好公司，但 Meta 在某些领域可能会走得更快。总体而言，扎克伯格强调了科技行业在企业度过后疫情时代时效率和重组的重要性。]]></description>
+      <guid>https://t.me/hn_summary/74646</guid>
+      <pubDate>Sat, 17 Feb 2024 09:02:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]人们发现，幼年类人猿喜欢取笑和惹恼长辈，正如雷夫 [...]</title>
+      <link>https://t.me/hn_summary/74645</link>
+      <description><![CDATA[研究发现，幼年类人猿喜欢取笑和惹恼长辈&lt; /a&gt;
+圣地亚哥和莱比锡动物园的录像显示，幼年类人猿喜欢取笑和惹恼长辈。这些有趣的、有时甚至是攻击性的行为包括戳、戳、拉头发和挠痒痒。该研究记录了 142 起戏弄事件，其中 3 至 5 岁的青少年是主要的煽动者。令人惊讶的是，这种行为类似于人类婴儿的戏弄，猿类会寻找目标的反应。这种行为可能有助于测试社会界限并加强关系，其历史可以追溯到 1300 万年前人类和现代猿类的最后共同祖先。]]></description>
+      <guid>https://t.me/hn_summary/74645</guid>
+      <pubDate>Sat, 17 Feb 2024 08:34:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>www.pcloadletter.dev 上的文章认为“敏捷”一词已被玷污并意味着 [...]</title>
+      <link>https://t.me/hn_summary/74644</link>
+      <description><![CDATA[敏捷是一个被玷污的术语
+关于 www.pcloadletter.dev 的文章认为，该术语在软件开发领域，“敏捷”已经变得污点且毫无意义。虽然敏捷宣言的原则很有价值，但该术语本身已被 Scrum 和看板等各种解释和流程所淡化。作者强调了许多开发人员在敏捷方法论方面的负面经历，导致人们对该术语缺乏信任。最终，文章表明“敏捷”这个词不再有效地传达它本应代表的原则，使其成为行业中一个空洞的流行词。]]></description>
+      <guid>https://t.me/hn_summary/74644</guid>
+      <pubDate>Sat, 17 Feb 2024 08:16:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]标题：从工程师到经理：我爱什么，我恨什么</title>
+      <link>https://t.me/hn_summary/74643</link>
+      <description><![CDATA[从工程师到经理：我爱什么，我恨什么
+标题：从工程师到经理：我爱什么，我恨什么
+
+从前端开发人员过渡到工程管理职位后，我经历了新角色的高潮和低谷。我喜欢管理的地方在于它能够对产品和团队产生真正的影响，它提供了有前途的职业机会，可以跨行业应用的可转移技能，以及不断跟上最新技术趋势所带来的轻松感。然而，我也讨厌某些方面，比如与公司的废话打交道、应对尴尬的社交场合、感受到办公时间的压力以及面对管理行为的漫长反馈循环。尽管面临挑战，但向管理层的转变是一次有益的过山车之旅，它扩展了我的技能，并为工程工作提供了新的视角。]]></description>
+      <guid>https://t.me/hn_summary/74643</guid>
+      <pubDate>Sat, 17 Feb 2024 08:12:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>blog.fpmurphy.com 上的 GRUB2 Modules (2010) 探索了 GRUB2 的模块化架构，类似于 [...]</title>
+      <link>https://t.me/hn_summary/74642</link>
+      <description><![CDATA[GRUB2 模块 (2010)
+blog.fpmurphy.com 上的 GRUB2 模块 (2010) 进行了探索GRUB2 的模块化架构，将模块比作 Linux 内核模块或 Mozilla Firefox 等软件的插件。这篇文章深入探讨了修改现有模块并使用 grub-emu 模拟器创建自定义模块。值得注意的模块包括那些提供类 Unix 命令、文件系统支持、分区方案和图形功能的模块。加载和卸载模块的命令与 GNU/Linux 中的命令相同。模块是 ELF 格式文件，使用 core.img 处理动态链接。 moddep.lst 中详细介绍了依赖关系映射，展示了模块如何交互。这篇文章全面介绍了 GRUB2 的模块系统。 （根据故事文本的 20% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/74642</guid>
+      <pubDate>Sat, 17 Feb 2024 07:33:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着变革性人工智能越来越成为现实，我发现自己处于一个暮色世界，不确定是否 [...]</title>
+      <link>https://t.me/hn_summary/74641</link>
+      <description><![CDATA[在人工智能前夜养育孩子
+随着变革性人工智能越来越成为现实，我发现自己处于一个暮色世界，不确定未来会更黑暗还是更光明。历史学家伊恩·莫里斯和本·加芬克尔的见解让我思考在这个不确定的环境中我应该如何抚养我的孩子。他们会面对一个正常的未来，还是充满混乱、战争，甚至是后匮乏的乌托邦？尽管存在不确定性，但我相信让他们为未知做好准备是值得的。虽然一些家长鼓励人工智能互动以做好准备，但我担心其中的风险。最终，我的目标是关注美好生活的基本特征，让我的孩子在不断变化的世界中追求他们的激情。]]></description>
+      <guid>https://t.me/hn_summary/74641</guid>
+      <pubDate>Sat, 17 Feb 2024 06:34:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]最新的 Nvidia 驱动程序更新版本 551.52 为 Ope 引入了 16 位浮点支持 [...]</title>
+      <link>https://t.me/hn_summary/74640</link>
+      <description><![CDATA[新的 Nvidia 驱动程序为 OpenCL 添加了 16 位浮点支持 [pdf](https ://news.ycombinator.com/item?id=39380745)
+最新的 Nvidia 驱动程序更新版本 551.52 引入了对 OpenCL 的 16 位浮点支持，从而增强了用户的性能和功能。此更新还包括游戏改进、错误修复和需要注意的已知问题。此外，发行说明还详细介绍了驱动程序安全性、GPU 性能计数器和兼容性模式方面的变化。用户还可以找到有关硬件和软件支持的信息以及驱动程序安装指南。总体而言，此更新提供了一系列增强功能和修复，以优化 Nvidia 显卡的用户体验。 （根据故事文本的 19% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/74640</guid>
+      <pubDate>Sat, 17 Feb 2024 06:30:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]令人惊讶的是，旁遮普邦首席部长 Bhagwant Mann 接受了住院治疗 [...]</title>
+      <link>https://t.me/hn_summary/74639</link>
+      <description><![CDATA[印度政客饮用被污染的“圣”河水，入院治疗&lt; /a&gt;
+令人惊讶的是，旁遮普邦首席部长巴格万特·曼 (Bhagwant Mann) 在清洁水体的运动中饮用了受污染的卡利贝因河的水后不久就住院了。尽管他的办公室否认他有任何疾病，并声称他进行了例行检查，但社交媒体用户批评这一行为是“失败的公关噱头”，并将他住院的原因归咎于水污染。曼恩在宗教先知的簇拥下喝水的视频在网上疯传，引发了人们对他住院的真正原因的争议和猜测。该事件引发了人们对印度圣河清洁度的质疑。]]></description>
+      <guid>https://t.me/hn_summary/74639</guid>
+      <pubDate>Sat, 17 Feb 2024 06:24:30 GMT</pubDate>
+    </item>
+    </channel>
+</rss>
